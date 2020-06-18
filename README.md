@@ -23,7 +23,7 @@
         4.相同的工具配置
         5.相同的基础代码
 
-编程题  见CODE目录
+编程题  见CODE目录 https://github.com/chenli120/fed-e-task-02-01/tree/master/code/homework
 1.概述脚手架实现的过程，并使用NodeJS完成一个自定义的小型脚手架工具
 	答：脚手架实现的过程--脚手架工具就是一个node cli的应用，创建一个脚手架就是创建一个node cli应用，具体实现过程如下：
 			1). 创建一个项目目录
